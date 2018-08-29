@@ -1,0 +1,10 @@
+--***************************************************************************************************
+--    Script		:	Update dossier-sql-store
+--	  Prerequisites	:	All upgrade scripts from R9 should be executed
+--    Author		:	Blueriq
+--    Date			:	3-3-2017
+--    Release		:	10.0.0
+--  
+--***************************************************************************************************
+
+Please follow the steps on: https://my.blueriq.com/display/DOC/R10.0+Upgrade+Blueriq+database+schema+for+Oracle
